@@ -1,6 +1,6 @@
 ---
-title: "BasicDataSet_v0.TeamsStandardChannelMessages_v0"
-description: "Contains channel posts, and messages from Standard Channels in Teams."
+title: "VivaInsightsDataSet_v0 "
+description: "Contains Viva Insights metrics."
 author: "David1997sb"
 localization_priority: Priority
 ms.prod: "data-connect"
@@ -8,7 +8,7 @@ ms.prod: "data-connect"
 
 # Overview
 
-The BasicDataSet_v0.TeamsStandardChannelMessages_v0 dataset contains channel posts, and messages from [Standard Channels](https://docs.microsoft.com/en-us/microsoftteams/teams-channels-overview#channel-feature-comparison) in Teams.
+The BasicDataSet_v0.TeamsStandardChannelMessages_v0 dataset contains Viva Insights metrics.  .
 
 ## Properties
 | Name | Type | Description | SampleData | FilterOptions | IsDateFilter | 
